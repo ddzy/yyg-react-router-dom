@@ -8,7 +8,7 @@ import RouterContext from './RouterContext';
 import { IStaticRouteComponentParams } from '../types';
 
 
-export interface ILinkProps {
+export interface ILinkProps extends React.HtmlHTMLAttributes<HTMLAnchorElement> {
   to?: string | LocationDescriptorObject<{
     [key: string]: any,
   }>;

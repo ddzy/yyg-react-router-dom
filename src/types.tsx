@@ -13,4 +13,7 @@ export interface IStaticRouteComponentParams {
   history: History,
   location: Location,
   match: IStaticMatchParams,
-};
+}
+
+
+export type ARIA_CURRENT = 'page' | 'step' | 'location' | 'date' | 'time' | 'true';
