@@ -16,8 +16,12 @@
 - [react-router-dom源码解析(八)——NavLink](https://blog.yyge.top/blog/2019/02/07/react-router-dom%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90-%E5%85%AB-NavLink/)
 - [react-router-dom源码解析(九)——withRouter](https://blog.yyge.top/blog/2019/02/08/react-router-dom%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90-%E4%B9%9D-withRouter/)
 
+## CHANGELOG
+
+See [CHANGELOG.md](./CHANGELOG.md)
+
 ## LICENSE
 
-[MIT](./LICENSE)
+See [MIT](./LICENSE)
 
 **enjoy!**
