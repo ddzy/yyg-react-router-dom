@@ -2,7 +2,7 @@
 
 ## Desc
 
-Based on [Here](https://blog.yyge.top/2019/01/24/react-router-dom%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90(%E4%B8%80)%20-%E5%BC%80%E7%AF%87/). About the source code analysis of react-router-dom
+`react-router-dom`源码解析系列, 并使用`ts`重写了该类库.
 
 ## Cat
 
@@ -16,8 +16,12 @@ Based on [Here](https://blog.yyge.top/2019/01/24/react-router-dom%E6%BA%90%E7%A0
 - [react-router-dom源码解析(八)——NavLink](https://blog.yyge.top/blog/2019/02/07/react-router-dom%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90-%E5%85%AB-NavLink/)
 - [react-router-dom源码解析(九)——withRouter](https://blog.yyge.top/blog/2019/02/08/react-router-dom%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90-%E4%B9%9D-withRouter/)
 
+## CHANGELOG
+
+See [CHANGELOG.md](./CHANGELOG.md)
+
 ## LICENSE
 
-[MIT](./LICENSE)
+See [MIT](./LICENSE)
 
 **enjoy!**
